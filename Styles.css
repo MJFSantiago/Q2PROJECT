@@ -1,0 +1,88 @@
+
+body {
+	 background-image: url(https://e0.pxfuel.com/wallpapers/420/578/desktop-wallpaper-pink-sky-sunset-background-philippines-philippines-aesthetic.jpg);
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+	 background-size: 100%;
+	 text-align: center;
+}
+
+h1 {
+	text-align: center;
+	background-image: linear-gradient(to left,blue,yellow);
+}
+
+h2 {
+	text-align: center;
+}
+
+.opening {
+	text-align: center;
+	background-color: beige;
+	color: darkgray;
+}
+
+
+.Intramuros {
+	border-radius: 50px;
+	border-color: green;
+	background-color: grey;
+	background-size: contain;
+	margin: 10px;
+	width: 50%;
+	text-align: center;
+
+}
+
+.FSdesc {
+	border-radius: 5px;
+	background-color: grey;
+	text-align: center;
+	padding: 30px;
+	color: brown;
+	width: 50%;
+
+}
+
+.ManilaBay {
+	border-radius: 50px;
+	border-color: green;
+	background-color: grey;
+	background-size: contain;
+	margin: 10px;
+	width: 50%;
+	text-align: center;
+}
+
+.Mbay {
+	border-radius: 5px;
+	background-color: grey;
+	text-align: center;
+	padding: 30px;
+	color: beige;
+	width: 50%;
+}
+
+.PPP {
+	border-radius: 50px;
+	border-color: green;
+	background-color: grey;
+	background-size: contain;
+	margin: 10px;
+	width: 50%;
+	text-align: center;
+}
+
+.PPPdesc {
+	border-radius: 5px;
+	background-color: grey;
+	text-align: center;
+	padding: 30px;
+	color: darkblue;
+	width: 50%;
+}
+	
+
+.Photogallery {
+	display: flex;
+}
